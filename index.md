@@ -34,12 +34,13 @@ Click below to watch the dashboard walkthrough video:
 - Microsoft Excel (Data Cleaning & Preprocessing)
 - GitHub & GitHub Pages (Project Hosting)
 - Screen Recording Tool (Video Walkthrough)
+- link:
+- https://github.com/Mahrukhfatima468/HR-Analytics-Dashboard/commit/7466bed66f7e3bc202cdc123ad75fc3cab71b4bd
   
 - ## Video Walkthrough
 Click below to watch the dashboard walkthrough video:
 - <video width="800" controls>
   <source src="dashboard_walkthrough.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
