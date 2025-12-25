@@ -23,6 +23,10 @@ The dataset contains employee-level HR information including:
 
 Temporal analysis is performed using career timeline variables such as years at company and total working years.
 
+## Video Walkthrough
+Click below to watch the dashboard walkthrough video:
+
+
 ---
 
 ## Tools and Technologies Used
@@ -30,6 +34,15 @@ Temporal analysis is performed using career timeline variables such as years at 
 - Microsoft Excel (Data Cleaning & Preprocessing)
 - GitHub & GitHub Pages (Project Hosting)
 - Screen Recording Tool (Video Walkthrough)
+  
+- ## Video Walkthrough
+Click below to watch the dashboard walkthrough video:
+- <video width="800" controls>
+  <source src="dashboard_walkthrough.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 ## Conclusion
 This interactive dashboard provides a comprehensive view of employee attrition and workforce trends.  
