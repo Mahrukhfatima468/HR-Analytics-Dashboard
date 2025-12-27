@@ -25,6 +25,9 @@ Temporal analysis is performed using career timeline variables such as years at 
 
 ## Video Walkthrough
 Click below to watch the dashboard walkthrough video:
+- links:
+- https://github.com/Mahrukhfatima468/HR-Analytics-Dashboard/commit/7466bed66f7e3bc202cdc123ad75fc3cab71b4bd
+- https://github.com/Mahrukhfatima468/HR-Analytics-Dashboard/raw/refs/heads/main/DASHBOARD%20walkthrough.mp4
 
 
 ---
@@ -34,9 +37,7 @@ Click below to watch the dashboard walkthrough video:
 - Microsoft Excel (Data Cleaning & Preprocessing)
 - GitHub & GitHub Pages (Project Hosting)
 - Screen Recording Tool (Video Walkthrough)
-- link:
-- https://github.com/Mahrukhfatima468/HR-Analytics-Dashboard/commit/7466bed66f7e3bc202cdc123ad75fc3cab71b4bd
-- https://github.com/Mahrukhfatima468/HR-Analytics-Dashboard/raw/refs/heads/main/DASHBOARD%20walkthrough.mp4
+
   
 - ## Video Walkthrough
 Click below to watch the dashboard walkthrough video:
